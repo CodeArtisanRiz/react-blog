@@ -1,12 +1,10 @@
-# React-Blog
+# React-Blog: [Link](https://react-blog-cko.pages.dev/)
 
 Welcome to **React-Blog**, a simple yet stylish blog system built using **React (Vite)**, **Tailwind CSS**, **shadcn/ui**, and **React Router DOM**.
 
 This project demonstrates core frontend concepts and integrates public APIs like [JSONPlaceholder](https://jsonplaceholder.typicode.com/) and [Picsum Photos](https://picsum.photos/) for blog data and random images.
 
----
-
-## 🔧 Tech Stack
+## Tech Stack
 
 - **React (with Vite)**
 - **Tailwind CSS**
@@ -34,3 +32,5 @@ npm install
 
 # 4. Start the development server
 npm run dev
+
+```
