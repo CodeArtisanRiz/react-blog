@@ -50,7 +50,7 @@ const BlogList = () => {
   }
 
   return (
-    <div className="container mx-auto py-8">
+    <div className="container mx-auto py-8 px-4">
       <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-8 gap-4">
         <h2 className="text-3xl font-bold">Latest Blog Posts</h2>
         <div className="flex justify-center md:justify-end w-full md:w-auto">
